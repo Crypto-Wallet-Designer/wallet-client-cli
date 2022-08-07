@@ -79,4 +79,4 @@ Example: `node main.js submitSignedTransfer 0xe20cB814f17B7d1102900fF3FA1b9CAFbF
 # Help --->
 You can always run `node main.js help` to see usage options.
 
-You can also dm Kristian on Twitter: `@kayolord`
+You can also dm Kristian on Twitter: https://twitter.com/kayolord
